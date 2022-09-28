@@ -1,0 +1,25 @@
+body {
+  background-color: #fff;
+}
+h4 {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+/* Styling of the images in the landing page */
+.isra {
+  height: 10em;
+}
+.lp_background {
+  height: 30em;
+}
+
+/* Israel CP text above portrait icon*/
+
+.isra_cp {
+  /* border: solid red 2px; */
+}
+
+/* Background description */
+
+.background_description {
+}
