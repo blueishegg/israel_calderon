@@ -1,0 +1,23 @@
+body {
+  background-color: #fff;
+  font-family: "NOto Sans JP", "sans-serif";
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  border: red solid 2px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.homepage_image {
+  height: 38em;
+}
+
+.isra {
+  border: green solid 2px;
+  height: 10em;
+  /* position: absolute; */
+}

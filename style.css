@@ -1,5 +1,9 @@
 body {
   background-color: #fff;
+  font-family: "NOto Sans JP", "sans-serif";
+  display: grid;
+  justify-content: center;
+  align-items: center;
 }
 h4 {
   font-family: "Noto Sans JP", sans-serif;
@@ -8,18 +12,18 @@ h4 {
 /* Styling of the images in the landing page */
 .isra {
   height: 10em;
+  position: absolute;
+  z-index: 2;
+}
+.main_image_with_label {
+  display: grid;
+  justify-content: center;
 }
 .lp_background {
-  height: 30em;
+  height: 38em;
+  width: auto;
+  /* justify-self: center; */
 }
-
-/* Israel CP text above portrait icon*/
-
-.isra_cp {
-  /* border: solid red 2px; */
-}
-
-/* Background description */
-
-.background_description {
+.label_background {
+  justify-self: end;
 }
