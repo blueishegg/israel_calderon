@@ -2,7 +2,7 @@
 
 //Saving content as variables
 const my_name = "Israel Calderon Patiño";
-export const isra_icon = "assets/global/Portrait v1.svg";
+const isra_icon = "assets/global/Portrait v1.svg";
 const landing_page_backgroud = "assets/landing_page/Torotoro - Bolivia.jpg";
 const landing_page_backgroud_label = "Bolivia - Torotoro August 2018";
 
